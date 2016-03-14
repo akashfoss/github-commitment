@@ -11,7 +11,7 @@ So let's challenge ourselves, let's contribute more and greenify that profile pa
 
 Feel free to submit your ideas/questions/whatever through the [issues](https://github.com/Zhouzi/github-commitment/issues).
 
-# How it works?
+## How it works?
 
 There are three main ways to get a "contribution" mark:
 
