@@ -5,7 +5,7 @@ It says a lot about your commitment to the open source community.
 So let's challenge ourselves, let's contribute more and greenify that profile page!
 
 * [How it works](#how-it-works)
-* [What's the point?](#what-s-the-point)
+* [What's the point?](#whats-the-point)
 * [How do I get involved?](#how-do-i-get-involved)
 * [Participants](#participants)
 
