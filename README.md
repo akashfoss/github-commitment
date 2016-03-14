@@ -1,5 +1,7 @@
 # GitHub Commitment
 
+[![Join the chat at https://gitter.im/Zhouzi/github-commitment](https://badges.gitter.im/Zhouzi/github-commitment.svg)](https://gitter.im/Zhouzi/github-commitment?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Having GitHub's contribution graph filled with green boxes is really cool.
 It says a lot about your commitment to the open source community.
 So let's challenge ourselves, let's contribute more and greenify that profile page!
