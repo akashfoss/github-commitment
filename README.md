@@ -22,10 +22,10 @@ So having a graph filled with green boxes shows to everyone (fellow coders, recr
 ## Work/life balance
 
 That commitment is intended to be a long term goal.
-The purpose is not to push hundreds of commits in a week to then go back to the old habits.
-By trying to do so, you'll probably end up writing less code but more often.
-You'll need to plan for the days to come, to find projects/ideas to work on.
+The purpose is not to push hundreds of commits in a week to then go back to zero.
 Maybe you'll need to slow down and keep some code for later.
+By doing so, you'll build new habits and probably end up writing less code but more often.
+You'll need to plan for the days to come, to find projects/ideas to work on.
 
 In the end, chances are you'll get more creative while improving your work/life balance.
 
