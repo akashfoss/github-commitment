@@ -2,48 +2,37 @@
 
 [![Join the chat at https://gitter.im/Zhouzi/github-commitment](https://badges.gitter.im/Zhouzi/github-commitment.svg)](https://gitter.im/Zhouzi/github-commitment?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Having GitHub's contribution graph filled with green boxes is really cool.
-It says a lot about your commitment to the open source community.
-So let's challenge ourselves, let's contribute more and greenify that profile page!
+I think that most of us would like to get more involved in the open source community.
+Be it building our own stuff or helping others by submitting issues and pull requests.
+But, for some reasons, it's hard sometimes to keep up the motivation.
+So let's challenge ourselves to get more committed by contributing to public GitHub projects.
 
-* [How it works](#how-it-works)
-* [What's the point?](#whats-the-point)
-* [How do I get involved?](#how-do-i-get-involved)
-* [Participants](#participants)
+Now, we need a way to measure how we're doing towards that goal and I cannot think of a better indicator than GitHub's contribution graph.
+It's both a great tracking tool and a rewarding system.
 
-Feel free to submit your ideas/questions/whatever through the [issues](https://github.com/Zhouzi/github-commitment/issues).
+Don't take me wrong: the goal is not to fill green boxes but to contribute more.
+But trying to fill that graph has a few advantages:
 
-## How it works?
+## It's rewarding
 
-There are three main ways to get a "contribution" mark:
+I believe that GitHub is the new resume and also a great portfolio.
+It's kind of the developers' dribbble.
+So having a graph filled with green boxes shows to everyone (fellow coders, recruiters, ...) how committed you are to the open source community.
 
-* Committing to a repository's default branch or gh-pages branch
-* Opening an issue
-* Proposing a pull request
+## Work/life balance
 
-So it's not just about writing code but also helping others.
-For more details, have a look at the [GitHub Documentation](https://help.github.com/categories/graphs-and-contributions/).
+That commitment is intended to be a long term goal.
+The purpose is not to push hundreds of commits in a week to then go back to the old habits.
+By trying to do so, you'll probably end up writing less code but more often.
+You'll need to plan for the days to come, to find projects/ideas to work on.
+Maybe you'll need to slow down and keep some code for later.
 
-## What's the point?
-
-Filling stats for the sake of it is pointless.
-GitHub Commitment should just be a source of motivation for us to contribute to an open source GitHub project at least once a day.
-If earning green boxes is your only motivation, then there are [automated tools](https://github.com/avinassh/rockstar) for that.
-
-But then let's be honest, there are days where you just can't do it.
-In such case, I guess keeping a commit or two to be pushed is ok (but you'll have to create the commit the day you want it to be counted for).
-
-> Wow, that's ridiculous!
-
-I hear you but this project is supposed to be a funny source of motivation, not a stressful constraint.
-
-Anyway, the point is not necessarily to have the longest streak and no holes in the wall.
-It's just about being commited and more active so do not fear too much about missing a day, it'll always be better than what it used to be.
-
-## How do I get involved?
-
-Just submit a pull request adding your name and the date you started your commitment (have a look at the [Participants](#participants) for examples).
+In the end, chances are you'll get more creative while improving your work/life balance.
 
 ## Participants
+
+Another great way to stay motivated is to show your engagement to the world.
+By being a "participant" you're publicly saying that you do plan to be more active.
+But joining this list also brings more ways to contribute as we can then help each other.
 
 * [Gabin Aureche](https://github.com/zhouzi) - Started on March 13, 2016
