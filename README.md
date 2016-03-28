@@ -9,8 +9,7 @@ So let's challenge ourselves to get more committed by contributing to public Git
 
 Now, we need a way to measure how we're doing towards that goal and I cannot think of a better indicator than GitHub's contribution graph.
 It's both a great tracking tool and a rewarding system.
-
-Don't take me wrong: the goal is not to fill green boxes but to contribute more.
+But don't take me wrong: the goal is not to fill green boxes but to contribute more.
 But trying to fill that graph has a few advantages:
 
 ## It's rewarding
