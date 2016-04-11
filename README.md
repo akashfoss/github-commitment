@@ -2,36 +2,30 @@
 
 [![Join the chat at https://gitter.im/Zhouzi/github-commitment](https://badges.gitter.im/Zhouzi/github-commitment.svg)](https://gitter.im/Zhouzi/github-commitment?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-I think that most of us would like to get more involved in the open source community.
-Be it building our own stuff or helping others by submitting issues and pull requests.
-But, for some reasons, it's hard sometimes to keep up the motivation.
-So let's challenge ourselves to get more committed by contributing to public GitHub projects.
+If you're just like me, a big fan of GitHub, then chances are you'd like to get more involved in open source projects.
+GitHub Commitment is the result of some thinking about a way to challenge myself to do so and I'd be glad to have you joining in.
+The goal is to contribute to GitHub's public projects as much as possible, at least once a day (if possible).
+To measure that involvment and see how I'm doing, I can't think of a better indicator than GitHub's contribution graph.
+You get a "green box" for each contribution, which GitHub considers to be:
 
-Now, we need a way to measure how we're doing towards that goal and I cannot think of a better indicator than GitHub's contribution graph.
-It's both a great tracking tool and a rewarding system.
-But don't take me wrong: the goal is not to fill green boxes but to contribute more.
-But trying to fill that graph has a few advantages:
+* Submitting an issue
+* Submitting a Pull Request
+* Pushing code to a public repo's default or `gh-pages` branch
 
-## It's rewarding
+As I'm writing this, it's been a month since I started the challenge and here are a few things I can tell you about it:
 
-I believe that GitHub is the new resume and also a great portfolio.
-It's kind of the developers' dribbble.
-So having a graph filled with green boxes shows to everyone (fellow coders, recruiters, ...) how committed you are to the open source community.
+1. It forces you to be creative and find ways to contribute and/or create stuff
+2. It helps with your work/life balance as you need to build a new habit and not just a one-week challenge
+3. It's rewarding thanks to GitHub's contribution graph, especially knowing the importance of GitHub for today's developers
 
-## Work/life balance
+Having you aboard would be even more awesome for a few reasons.
+First, it's always great to make connections and work with people.
+Second, publicly telling to the world that you're in a challenge is a great way to stay motivated.
+And finally, we can contribute to each other's projects so the more we are, the more there are ways to make a daily contribution.
 
-That commitment is intended to be a long term goal.
-The purpose is not to push hundreds of commits in a week to then go back to zero.
-Maybe you'll need to slow down and keep some code for later.
-By doing so, you'll build new habits and probably end up writing less code but more often.
-You'll need to plan for the days to come, to find projects/ideas to work on.
-
-In the end, chances are you'll get more creative while improving your work/life balance.
+If you do want to take part in the challenge, feel free to submit a [Pull Request](https://github.com/Zhouzi/github-commitment/pulls) or an [issue](https://github.com/Zhouzi/github-commitment/issues).
+I've also created a [gitter channel](https://gitter.im/Zhouzi/github-commitment) so we can chat about cool ideas, projects, suggestions or whatever.
 
 ## Participants
-
-Another great way to stay motivated is to show your engagement to the world.
-By being a "participant" you're publicly saying that you do plan to be more active.
-But joining this list also brings more ways to contribute as we can then help each other.
 
 * [Gabin Aureche](https://github.com/zhouzi) - Started on March 13, 2016
