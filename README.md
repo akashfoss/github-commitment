@@ -29,3 +29,4 @@ I've also created a [gitter channel](https://gitter.im/Zhouzi/github-commitment)
 ## Participants
 
 * [Gabin Aureche](https://github.com/zhouzi) - Started on March 13, 2016
+* [Chris Kwan](https://github.com/chriskwan) - Started on January 1, 2016
